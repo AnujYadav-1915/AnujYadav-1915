@@ -87,10 +87,8 @@
 
 <hr/>
 
-## ⚡ GitHub Stats
+## 📈 Activity
 
-## ⚡ GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnujYadav-1915&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujYadav-1915&layout=compact&theme=radical" />
+- Consistently building and deploying real-world projects  
+- Active in problem-solving and system design practice  
+- Focused on writing production-level, scalable code  

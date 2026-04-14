@@ -5,6 +5,15 @@
 
 <hr/>
 
+## ⚡ What Makes Me Different
+
+- Built systems handling **50K+ real-world requests**
+- Designed **low-latency (<100ms) real-time systems**
+- Experience with **scalable backend & distributed architectures**
+- Hands-on with **CI/CD, cloud deployment & production systems**
+
+<hr/>
+
 ## 🧠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
@@ -34,7 +43,7 @@
 ---
 
 ### 🤖 LearnMate – AI Career Platform
-- Built an AI-powered SaaS platform with resume analysis & mock interviews  
+- Built AI-powered SaaS platform with resume analysis & mock interviews  
 - Integrated OpenAI API for personalized learning roadmap generation  
 - Scaled to **100+ users** with JWT authentication & RBAC system  
 - Implemented CI/CD with Vercel + GitHub Actions  
@@ -80,6 +89,6 @@
 
 ## ⚡ GitHub Stats
 
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnujYadav-1915&show_icons=true)
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnujYadav-1915&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnujYadav-1915&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnujYadav-1915&layout=compact&theme=radical)

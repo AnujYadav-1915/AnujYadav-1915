@@ -1,6 +1,6 @@
 # Hi, I'm Anuj 👋
 
-🚀 Full-Stack Software Engineer | Real-Time & Scalable Systems  
+🚀 Software Engineer | Real-Time & Scalable Systems  
 ⚡ 7x AWS Certified | 10K+ Users | 50K+ Requests | <100ms Latency Systems  
 
 <hr/>

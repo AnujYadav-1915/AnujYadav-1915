@@ -59,7 +59,8 @@
 - Built analytics dashboard tracking **10K+ clicks/month**  
 - Implemented collision-safe Base62 hashing  
 - **Tech:** Node.js, MongoDB, Redis  
-- 🔗 GitHub: https://github.com/AnujYadav-1915/URL-Shortener  
+- 🔗 GitHub: https://github.com/AnujYadav-1915/URL-Shortener
+- 🌐 https://frontend-rust-ten-44.vercel.app/
 
 <hr/>
 

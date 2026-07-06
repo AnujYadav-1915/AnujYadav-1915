@@ -39,7 +39,7 @@ Integrated OpenAI's API for the analysis part. Backend is Next.js API routes wit
 
 Currently at 40+ users. Not millions — but it's real, I can log into the DB and count them.
 
-- 🔗 [GitHub](https://github.com/AnujYadav-1915/Learnmate)
+- 🔗 [GitHub]([https://github.com/AnujYadav-1915/Learnmate](https://github.com/AnujYadav-1915/AI_Career_Coach_Agent))
 - 🌐 [Live](https://anuj-kumar-ai-career-coach.vercel.app/)
 
 **Tech:** Next.js, Node.js, PostgreSQL, OpenAI API, GitHub Actions
